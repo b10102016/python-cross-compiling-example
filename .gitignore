@@ -4,3 +4,4 @@
 /package.tar
 __pycache__
 .*.swp
+out.log
